@@ -1,2 +1,2 @@
-# GridJewel
+# GemGridIntro
 Created with CodeSandbox
